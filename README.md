@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Sunil Trivedi</h1>
 <h3 align="center">A passionate full stack web/app developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh-trivs" alt="harsh-trivs" /></a> </p>
 
 - 🔭 I’m currently working on [InstiSpace](InstiSpace.iitm.ac.in/app)
 
