@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Sunil Trivedi</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u844RWU0NtqImTcItKm9Pj87l9Rpz4IC/view?usp=drivesdk](https://drive.google.com/file/d/1u844RWU0NtqImTcItKm9Pj87l9Rpz4IC/view?usp=drivesdk)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1u844RWU0NtqImTcItKm9Pj87l9Rpz4IC/view?usp=drivesdk)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-trivs/) 
