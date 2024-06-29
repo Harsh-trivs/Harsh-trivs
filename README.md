@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Sunil Trivedi</h1>
-<h3 align="center">A passionate full stack web/app developer from India.</h3>
+<h3 align="center">A passionate full-stack web/app developer from India.</h3>
 
 
 - 🔭 I’m currently working on [InstiSpace](InstiSpace.iitm.ac.in/app)
@@ -12,13 +12,6 @@
 - 📫 How to reach me **harshtrivs@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1u844RWU0NtqImTcItKm9Pj87l9Rpz4IC/view?usp=drivesdk](https://drive.google.com/file/d/1u844RWU0NtqImTcItKm9Pj87l9Rpz4IC/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsh trivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh trivedi" height="30" width="40" /></a>
-</p>
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-trivs/) 
