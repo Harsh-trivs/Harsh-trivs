@@ -1,5 +1,3 @@
-![Avatar](https://avatarfiles.alphacoders.com/371/thumb-1920-371697.png)
-
 <h1 align="center">Hi 👋, I'm Harsh Sunil Trivedi</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
